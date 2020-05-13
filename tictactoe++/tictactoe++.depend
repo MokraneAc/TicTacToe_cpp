@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1589292521 source:/home/hp/Desktop/C++/tictactoe++/Game.cpp
+	"Game.h"
+
+1589290511 /home/hp/Desktop/C++/tictactoe++/Game.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	<string>
+
+1589292397 source:/home/hp/Desktop/C++/tictactoe++/main.cpp
+	<SFML/Graphics.hpp>
+	"Game.h"
+	"Human.h"
+	"Logic.h"
+	"Comp.h"
+	<iostream>
+	<unistd.h>
+
+1589288750 source:/home/hp/Desktop/C++/tictactoe++/Human.cpp
+	"Human.h"
+
+1589289504 /home/hp/Desktop/C++/tictactoe++/Human.h
+	"Game.h"
+
+1589289140 source:/home/hp/Desktop/C++/tictactoe++/Comp.cpp
+	"Comp.h"
+
+1589289504 /home/hp/Desktop/C++/tictactoe++/Comp.h
+	"Logic.h"
+
+1589291889 /home/hp/Desktop/C++/tictactoe++/Logic.h
+	"Game.h"
+
+1589291889 source:/home/hp/Desktop/C++/tictactoe++/Logic.cpp
+	"Logic.h"
+
